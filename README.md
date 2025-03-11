@@ -4,7 +4,7 @@
 Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak amacıyla, ışık ve sıcaklık sensörleri kullanarak otomatik olarak açılıp kapanabilen bir perde kontrol sistemini geliştirmeyi amaçlamaktadır.
 
 ## 2. Proje Kısa Özeti
-Günümüzde manuel perde kontrolü, kullanıcılar için zahmetli olabilmekte ve enerji verimliliği açısından dezavantaj yaratmaktadır. Bu proje kapsamında geliştirilecek sistem, ortamın ışık ve sıcaklık değerlerini ölçerek perdeyi otomatik olarak açıp kapatacaktır. Sistem, Arduino mikrodenetleyicisi, servo motor, LDR ışık sensörü ve DHT11/DHT22 sıcaklık sensörünü kullanarak çalışacaktır. Geliştirme sürecinde, sensörlerden gelen verileri işleyen bir algoritma yazılacak ve sistem test edilerek optimize edilecektir. Opsiyonel olarak, mobil uygulama ile manuel kontrol özelliği de eklenebilir.
+Günümüzde manuel perde kontrolü, kullanıcılar için zahmetli olabilmekte ve enerji verimliliği açısından dezavantaj yaratmaktadır. Bu proje kapsamında geliştirilecek sistem, ortamın ışık ve sıcaklık değerlerini ölçerek perdeyi otomatik olarak açıp kapatacaktır. Sistem, Arduino mikrodenetleyicisi, servo motor, LDR ışık sensörü ve LM35 veya DHT11/DHT22 sıcaklık sensörünü kullanarak çalışacaktır. Geliştirme sürecinde, sensörlerden gelen verileri işleyen bir algoritma yazılacak ve sistem test edilerek optimize edilecektir. Opsiyonel olarak, mobil uygulama ile manuel kontrol özelliği de eklenebilir.
 
 ## 3. Proje Gereksinimleri
 Projenin çalıştırılabilmesi için aşağıdaki donanım ve yazılım bileşenleri gereklidir:
