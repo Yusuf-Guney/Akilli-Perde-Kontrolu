@@ -55,12 +55,8 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için `LICENSE
 - Enerji Verimliliği
 
 ## 7. Görseller
-Proje görselleri "Figure" klasöründe yer almaktadır. Görsellerin README.md dosyasında görüntülenebilmesi için aşağıdaki gibi bağıl (relative) bağlantılar kullanılabilir:
-
 ![Bağlantı Şeması](Figure/baglanti_shemati.png)
 
 ![Devre Montajı](Figure/devre_montaji.jpg)
 
----
 
-**Not:** `README.md` ve "Figure" klasörü `.zip` formatına sıkıştırılarak eKampüs platformuna yüklenmelidir.
