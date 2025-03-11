@@ -21,6 +21,8 @@ Projenin çalıştırılabilmesi için aşağıdaki donanım ve yazılım bileş
 - Harici Güç Kaynağı
 - Buzzer (Opsiyonel)
 
+**Not:** Gerekli tüm donanımlar [Robotistan](https://www.robotistan.com/) üzerinden temin edilebilir.
+
 ### Yazılım:
 - Arduino IDE
 - C++ (Arduino kodlaması için)
