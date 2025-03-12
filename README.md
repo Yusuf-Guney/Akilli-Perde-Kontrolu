@@ -1,12 +1,12 @@
 # Akilli Perde Kontrol Sistemi
 
-## 1. Proje Konusu
+## Proje Konusu
 Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak amacıyla, ışık ve sıcaklık sensörleri kullanarak otomatik olarak açılıp kapanabilen bir perde kontrol sistemini geliştirmeyi amaçlamaktadır.
 
-## 2. Proje Kısa Özeti
+## Proje Kısa Özeti
 Günümüzde manuel perde kontrolü, kullanıcılar için zahmetli olabilmekte ve enerji verimliliği açısından dezavantaj yaratmaktadır. Bu proje kapsamında geliştirilecek sistem, ortamın ışık ve sıcaklık değerlerini ölçerek perdeyi otomatik olarak açıp kapatacaktır. Sistem, Arduino mikrodenetleyicisi, servo motor, LDR ışık sensörü ve LM35 sıcaklık sensörünü kullanarak çalışacaktır. Geliştirme sürecinde, sensörlerden gelen verileri işleyen bir algoritma yazılacak ve sistem test edilerek optimize edilecektir. Opsiyonel olarak, mobil uygulama ile manuel kontrol özelliği de eklenebilir.
 
-## 3. Proje Gereksinimleri
+## Proje Gereksinimleri
 Projenin çalıştırılabilmesi için aşağıdaki donanım ve yazılım bileşenleri gereklidir:
 
 ### Donanım:
@@ -27,7 +27,7 @@ Projenin çalıştırılabilmesi için aşağıdaki donanım ve yazılım bileş
 
 **Not:** Gerekli tüm donanımlar [Robotistan](https://www.robotistan.com/) üzerinden temin edilebilir.
 
-## 4. Projeyi Çalıştırma
+## Projeyi Çalıştırma
 1. **Gerekli Donanımı Bağlayın:**
    - Arduino UNO'ya sensörleri ve motoru bağlayın.
    - LDR sensörünü ve sıcaklık sensörünü uygun pinlere yerleştirin.
@@ -45,10 +45,10 @@ Projenin çalıştırılabilmesi için aşağıdaki donanım ve yazılım bileş
    - Sensörlerden veri alarak servo motorun perdeyi açıp kapattığını test edin.
    - Çeşitli ışık ve sıcaklık seviyelerinde sistemi test ederek optimizasyon yapın.
 
-## 5. Proje Lisans Bilgileri
+## Proje Lisans Bilgileri
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için `LICENSE` dosyasına bakabilirsiniz.
 
-## 6. Proje Anahtar Kelimeleri
+## Proje Anahtar Kelimeleri
 - IoT
 - Arduino
 - Akıllı Ev
@@ -56,7 +56,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için `LICENSE
 - Sensör Teknolojisi
 - Enerji Verimliliği
 
-## 7. Görseller
+## Görseller
 
 ## Örnek Proje Maketi
 ![Örnek Proje Maketi](Figure/Maket.png)
