@@ -34,10 +34,11 @@ Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak am
 - Ömer Faruk KOCAEFE
 - Yusuf GÜNEY
 
-**Görev Dağılımı:**
-- Donanım ve devre tasarımı: Ömer Faruk KOCAEFE, Mustafa Erhan PORTAKAL
-- Yazılım geliştirme: Burak TÜRK
-- Test ve entegrasyon: Yusuf GÜNEY
+### Görev Dağılımı
+
+- **Donanım ve Devre Tasarımı:** Ömer Faruk KOCAEFE, Mustafa Erhan PORTAKAL, Burak TÜRK, Yusuf GÜNEY
+- **Yazılım Geliştirme:** Ömer Faruk KOCAEFE, Mustafa Erhan PORTAKAL, Burak TÜRK, Yusuf GÜNEY
+- **Test ve Entegrasyon:** Ömer Faruk KOCAEFE, Mustafa Erhan PORTAKAL, Burak TÜRK, Yusuf GÜNEY
 
 **Proje Maliyeti:**
 - Arduino UNO Başlangıç Seti: 400 TL
