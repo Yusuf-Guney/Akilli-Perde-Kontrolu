@@ -31,7 +31,7 @@ Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak am
 - Yusuf GÜNEY
 
 **Görev Dağılımı:**
-- Donanım ve devre tasarımı: Ömer Faruk KOCAEFE, Mustafa Erhan POLAT
+- Donanım ve devre tasarımı: Ömer Faruk KOCAEFE, Mustafa Erhan PORTAKAL
 - Yazılım geliştirme: Burak TÜRK
 - Test ve entegrasyon: Yusuf GÜNEY
 
