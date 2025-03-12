@@ -15,13 +15,17 @@ Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak am
 - Kullanıcı memnuniyetine yönelik testlerde olumlu geri bildirim alınması.
 
 ## 3. Tahmini Zaman Çizelgesi
-| Görev                          | Süre (Gün) |
-|--------------------------------|------------|
-| Gereksinim Analizi             | 7          |
-| Donanım Tasarımı               | 10         |
-| Yazılım Geliştirme             | 14         |
-| Sistem Entegrasyonu ve Testler | 10         |
-| Optimizasyon ve Rapor Hazırlığı| 7          |
+
+| Hafta | Yapılacak İşlem |
+|-------|----------------|
+| 1. Hafta | Proje gereksinimlerinin belirlenmesi ve malzeme temini |
+| 2. Hafta | Arduino ve bileşenlerin test edilmesi |
+| 3. Hafta | Sensörlerin bağlantılarının yapılması ve test edilmesi |
+| 4. Hafta | Servo motor kontrolünün gerçekleştirilmesi |
+| 5. Hafta | Röle modülü ile perde kontrol mekanizmasının oluşturulması |
+| 6. Hafta | Buzzer ile sesli uyarı sisteminin eklenmesi |
+| 7. Hafta | Tüm sistemin birleştirilmesi ve yazılım testleri |
+| 8. Hafta | Son testler ve proje raporunun hazırlanması |
 
 ## 4. Kaynak Planlaması
 **Proje Ekibi:**
