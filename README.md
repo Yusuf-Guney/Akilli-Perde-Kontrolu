@@ -63,19 +63,19 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için `LICENSE
 
 ## Kullanılacak Malzemeler
 ### Arduino Set
-![Arduino Set](Ardunio_Set.png)
+![Arduino Set](Figure/Ardunio_Set.png)
 
 ### Buzzer
-![Buzzer](Buzzer.png)
+![Buzzer](Figure/Buzzer.png)
 
 ### Röle
-![Röle](Role.png)
+![Röle](Figure/Role.png)
 
 ### Servo Motor
-![Servo Motor](Servo_Motor.png)
+![Servo Motor](Figure/Servo_Motor.png)
 
 ### Sıcaklık Sensörü
-![Sıcaklık Sensörü](Sıcaklık_Sensoru.png)
+![Sıcaklık Sensörü](Figure/Sıcaklık_Sensoru.png)
 
 
 
