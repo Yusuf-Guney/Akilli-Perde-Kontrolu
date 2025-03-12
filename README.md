@@ -57,8 +57,25 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için `LICENSE
 - Enerji Verimliliği
 
 ## 7. Görseller
-![Bağlantı Şeması](Figure/baglanti_shemati.png)
 
-![Devre Montajı](Figure/devre_montaji.jpg)
+## Örnek Proje Maketi
+![Örnek Proje Maketi](Maket.png)
+
+## Kullanılacak Malzemeler
+### Arduino Set
+![Arduino Set](Ardunio_Set.png)
+
+### Buzzer
+![Buzzer](Buzzer.png)
+
+### Röle
+![Röle](Role.png)
+
+### Servo Motor
+![Servo Motor](Servo_Motor.png)
+
+### Sıcaklık Sensörü
+![Sıcaklık Sensörü](Sıcaklık_Sensoru.png)
+
 
 
