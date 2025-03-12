@@ -1,9 +1,9 @@
 # Akıllı Perde Kontrol Sistemi - Öneri Raporu
 
-## 1. Proje Konusu
+## Proje Konusu
 Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak amacıyla ışık ve sıcaklık sensörleri kullanarak otomatik olarak açılıp kapanabilen bir perde kontrol sistemini geliştirmeyi amaçlamaktadır. Sistem, çevresel faktörleri analiz ederek perdeyi uygun şekilde konumlandırarak kullanıcı müdahalesini minimuma indirir.
 
-## 2. Proje Hedefleri
+## Proje Hedefleri
 - Güneş ışığı ve sıcaklık değişimlerine duyarlı bir perde kontrol mekanizması geliştirmek.
 - Kullanıcı müdahalesini en aza indirerek iç mekan konforunu artırmak.
 - Enerji verimliliğini artırarak gereksiz ısı kaybını veya güneş ışığı kullanımını optimize etmek.
@@ -14,7 +14,7 @@ Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak am
 - Perdenin belirlenen eşik değerlerine göre otomatik olarak açılması/kapanması.
 - Kullanıcı memnuniyetine yönelik testlerde olumlu geri bildirim alınması.
 
-## 3. Tahmini Zaman Çizelgesi
+## Tahmini Zaman Çizelgesi
 
 | Hafta | Yapılacak İşlem |
 |-------|----------------|
@@ -27,7 +27,7 @@ Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak am
 | 7. Hafta | Tüm sistemin birleştirilmesi ve yazılım testleri |
 | 8. Hafta | Son testler ve proje raporunun hazırlanması |
 
-## 4. Kaynak Planlaması
+## Kaynak Planlaması
 **Proje Ekibi:**
 - Burak TÜRK
 - Mustafa Erhan PORTAKAL
@@ -50,7 +50,7 @@ Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak am
 - Arduino IDE
 - C++ Programlama Dili
 
-## 5. Risk Analizi
+## Risk Analizi
 | Risk Faktörü                           | Olası Çözüm              |
 |----------------------------------------|--------------------------|
 | Sensörlerin yanlış veri okuması        | Sensör kalibrasyonu      |
@@ -58,15 +58,30 @@ Bu proje, iç mekanlarda konforu artırmak ve enerji verimliliğini sağlamak am
 | Güç kaynağı yetersizliği               | Harici güç kaynağı kullanımı |
 | Yazılım hataları                       | Kod optimizasyonu ve test |
 
-## 6. Ticari Potansiyel
+## Ticari Potansiyel
 Bu proje, akıllı ev sistemleri ve enerji verimliliği alanlarında geniş bir ticari potansiyele sahiptir. Potansiyel kullanım alanları:
 - **Ev otomasyonu**: Kullanıcıların manuel müdahale gerektirmeden konfor sağlaması.
 - **Ofis ve ticari alanlar**: Güneş ışığını ve sıcaklığı optimize ederek enerji tasarrufu sağlanması.
 - **Otel ve konaklama sektörü**: Konuk konforunu artırarak premium hizmet sunulması.
 
-## 7. Görseller
+## Görseller
 
-![Sistem Şeması](Figure/sistem_semasi.png)
+## Örnek Proje Maketi
+![Örnek Proje Maketi](Figure/Maket.png)
 
-![Donanım Bileşenleri](Figure/donanim_bilesenleri.jpg)
+## Kullanılacak Malzemeler
+### Arduino Set
+![Arduino Set](Figure/Ardunio_Set.png)
+
+### Buzzer
+![Buzzer](Figure/Buzzer.png)
+
+### Röle
+![Röle](Figure/Role.png)
+
+### Servo Motor
+![Servo Motor](Figure/Servo_Motor.png)
+
+### Sıcaklık Sensörü
+![Sıcaklık Sensörü](Figure/Sıcaklık_Sensoru.png)
 
