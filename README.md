@@ -59,7 +59,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için `LICENSE
 ## 7. Görseller
 
 ## Örnek Proje Maketi
-![Örnek Proje Maketi](Maket.png)
+![Örnek Proje Maketi](Figure/Maket.png)
 
 ## Kullanılacak Malzemeler
 ### Arduino Set
