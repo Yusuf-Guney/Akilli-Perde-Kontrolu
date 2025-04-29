@@ -1,9 +1,9 @@
 # Ara Rapor
 
-## 1. Proje Konusu (Kısa)
+## 1. Proje Konusu
 Işık ve sıcaklık seviyelerine bağlı olarak çalışan, perdeyi otomatik olarak açıp kapatabilen bir akıllı kontrol sistemi.
 
-## 2. Özet (Kısa)
+## 2. Özet
 Bu proje kapsamında, iç ortamda sıcaklık ve ışık sensörleri kullanılarak, bir servo motor ile perde kontrolü sağlanmaktadır. Bu sayede güneş ışığına ve sıcaklığa bağlı olarak perdelerin otomatik açılıp kapanması hedeflenmektedir. Şu ana kadar devre şeması hazırlanmış, Proteus simülasyonu yapılmış ve sistemin temel işlevselliği test edilmiştir.
 
 ## 3. Kullanılan Yöntemler
