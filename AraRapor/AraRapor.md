@@ -47,5 +47,5 @@ Bu proje kapsamında, iç ortamda sıcaklık ve ışık sensörleri kullanılara
 - Küçük bir perde maketi hazırlanacak ve sistem bu maket üzerine monte edilecektir.
 - Servo motorun dönme yönü ve açısı perde sistemine göre yeniden ayarlanacaktır.
 - Proje kasası ve estetik görünüm tamamlanacak.
-- (Opsiyonel) Bluetooth veya Wi-Fi modülü ile mobil kontrol özelliği eklenecek.
+
 
