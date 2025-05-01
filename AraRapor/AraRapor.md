@@ -54,4 +54,7 @@ Bu proje kapsamında, iç ortamda sıcaklık ve ışık sensörleri kullanılara
 - Servo motorun dönme yönü ve açısı perde sistemine göre yeniden ayarlanacaktır.
 - Proje kasası ve estetik görünüm tamamlanacak.
 
+---
+
+📄 [GitHub Üzerinden Ara Rapor Dosyasına Ulaşmak için Tıklayın](https://github.com/Yusuf-Guney/Akilli-Perde-Kontrolu/blob/main/AraRapor/AraRapor.md)
 
