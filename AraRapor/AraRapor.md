@@ -46,7 +46,7 @@ Bu proje kapsamında, iç ortamda sıcaklık ve ışık sensörleri kullanılara
 | DHT11 Sensöründen Veri Alımında Gecikmeler         | Sensör zaman zaman veri iletiminde gecikmelere neden oldu.                                        | Kodda bekleme süreleri düzenlendi, okuma sıklığı azaltıldı.                             |
 | LDR’nin Ortam Işığına Duyarlılığı Yetersizdi       | LDR farklı ışık koşullarında tutarsız sonuçlar verdi.                                             | LDR’nin önüne ışığı odaklayan bir tüp yerleştirildi.                                    |
 | Breadboard Üzerinde Kablolama Karmaşası            | Çok sayıda kablo nedeniyle bağlantılar karıştı, kısa devre riski oluştu.                          | Jumper kablolar düzenlendi, bağlantı planı sadeleştirildi.                              |
-| Servo motorun dönüş açısının sınırlı olması |Servo motor yapısından dolayı maksimum 180° derece dönüyordu fakat biz 360° yani tam tur attırmamız gerekiyor|| Servo motorun içindeki sınırlayıcı çıkıntı sökülecek şekilde plan yapıldı |
+| Servo motorun dönüş açısının sınırlı olması |Servo motor yapısından dolayı maksimum 180° derece dönüyordu fakat biz 360° yani tam tur attırmamız gerekiyordu.| Servo motorun içindeki sınırlayıcı çıkıntı sökülecek şekilde plan yapıldı |
 | Arduino USB Bağlantı Kopmaları                     | Arduino USB üzerinden bilgisayarla bağlantısını anlık olarak kaybetti.                            | USB kablo değiştirildi, bağlantı daha kararlı hale getirildi.                           |
 
 
