@@ -39,11 +39,16 @@ Bu proje kapsamında, iç ortamda sıcaklık ve ışık sensörleri kullanılara
 - Sistem temel fonksiyonlarını başarıyla gerçekleştirmektedir.
 
 ## 6. Karşılaşılan Sorunlar ve Çözümler
-| Sorun | Çözüm |
-|------|-------|
-| Proteus’ta servo motorun tam simülasyonu yapılamadı | Benzer işlevselliği sağlayacak komponentlerle devre simüle edildi |
-| DHT11 veri kararsızlığı | Kodda ortalama alma ve gecikme stratejileriyle daha doğru sonuçlar elde edildi |
-| Servo motorun dönüş açısının sınırlı olması | Servo motorun içindeki sınırlayıcı çıkıntı sökülecek şekilde plan yapıldı |
+
+| Sorun Başlığı                                      | Açıklama                                                                                          | Çözüm                                                                                     |
+|----------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Proteus Simülasyonunda Servo Motor Sorunu         | Servo motor simülasyon sırasında beklenen açısal hareketi tam veremedi.                          | PWM sinyali optimize edilerek motor hareketi düzeltildi.                                 |
+| DHT11 Sensöründen Veri Alımında Gecikmeler         | Sensör zaman zaman veri iletiminde gecikmelere neden oldu.                                        | Kodda bekleme süreleri düzenlendi, okuma sıklığı azaltıldı.                             |
+| LDR’nin Ortam Işığına Duyarlılığı Yetersizdi       | LDR farklı ışık koşullarında tutarsız sonuçlar verdi.                                             | LDR’nin önüne ışığı odaklayan bir tüp yerleştirildi.                                    |
+| Breadboard Üzerinde Kablolama Karmaşası            | Çok sayıda kablo nedeniyle bağlantılar karıştı, kısa devre riski oluştu.                          | Jumper kablolar düzenlendi, bağlantı planı sadeleştirildi.                              |
+| Servo Motorun Yeterli Tork Sağlayamaması           | SG90 motor testlerde karton perdeyi bile zor hareket ettirdi.                                     | Perde maketi henüz yapılmadığı için test düzeni hafif yüklü olacak şekilde düzenlendi.  |
+| Arduino USB Bağlantı Kopmaları                     | Arduino USB üzerinden bilgisayarla bağlantısını anlık olarak kaybetti.                            | USB kablo değiştirildi, bağlantı daha kararlı hale getirildi.                           |
+
 
 ## 7. Projenin Devamında Yapılacaklar
 - Servo motorun 360 derece dönebilmesi için iç modifikasyon yapılacaktır.
