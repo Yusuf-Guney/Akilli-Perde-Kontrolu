@@ -22,10 +22,13 @@ Bu proje kapsamında, iç ortamda sıcaklık ve ışık sensörleri kullanılara
 ![Proteus Devre Simülasyonu](Figure/devre5.jpg)
 
 
-**Görsel 2: Gerçek Devre Bağlantısı**  
+**Görsel 2: Gerçek Devre Bağlantısı 1**  
 ![Gerçek Devre](Figure/devre1.jpg)
+**Görsel 3: Gerçek Devre Bağlantısı 2**  
 ![Gerçek Devre](Figure/devre2.jpg)
+**Görsel 4: Gerçek Devre Bağlantısı 3**  
 ![Gerçek Devre](Figure/devre3.jpg)
+**Görsel 5: Gerçek Devre Bağlantısı 4**  
 ![Gerçek Devre](Figure/devre4.jpg)
 
 
